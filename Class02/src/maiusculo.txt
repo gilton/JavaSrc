@@ -1,0 +1,6 @@
+ARQUIVO DE TESTES
+
+Nele pode ser escrito qualquer coisa!!
+
+O USUÁRIO FINAL informa o nome do arquivo que será aberto para operações 
+de entrada através do OBJETO arq, INSTANCIADO e CRIADO a partir da CLASSE.
